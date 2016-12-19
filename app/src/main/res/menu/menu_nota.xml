@@ -15,11 +15,6 @@
         android:title="@string/alert_ok"
         app:showAsAction="always" />
 
-    <item
-        android:id="@+id/save"
-        android:icon="@mipmap/ic_save"
-        android:title="@string/save"
-        app:showAsAction="always" />
 
     <item
         android:id="@+id/bottom_sheet_item"
